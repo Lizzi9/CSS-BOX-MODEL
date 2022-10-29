@@ -1,3 +1,9 @@
+h3{
+    width:20vw;
+    border-bottom: 5px solid orange;
+    padding-bottom:10px;
+    
+}
 div{
     width:100px;
 }
@@ -7,4 +13,5 @@ div{
     border: 10px solid blue;
     background-color: coral;
     padding:25px;
+    margin-top: 50px;
 }
