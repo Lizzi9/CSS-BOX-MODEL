@@ -1,0 +1,10 @@
+div{
+    width:100px;
+}
+
+.listOfBirds{
+    width:15vw;
+    border: 10px solid blue;
+    background-color: coral;
+    padding:25px;
+}
