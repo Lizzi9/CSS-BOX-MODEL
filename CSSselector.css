@@ -1,12 +1,13 @@
 
 
-section .intro{
+ .intro{
+    font-size:1rem;
     color: #ffc700;
+    max-width: 900px;
     background-color: #18354A;
-    font-size:3rem;
-    margin:2rem 0 32rem 0;
-    padding:3rem 3rem 3rem 3rem;
-    border:1px solid rgb(192, 187, 187)
-    max-width:900px;
+    border:1px solid rgb(192, 187, 187);
+    padding:3rem;
+    margin:2rem auto;
+ 
    
 }

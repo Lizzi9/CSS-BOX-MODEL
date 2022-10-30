@@ -1,12 +1,11 @@
 h3{
     color:blue;
+    width:20vw;
     font-size: 20px;
     font-family:sans-serif;
-    width:20vw;
-    border-bottom: 5px solid orange;
     padding-bottom:10px;
     padding-left:80px;
-    
+    border-bottom: 5px solid orange;
 }
 
 
