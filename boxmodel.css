@@ -1,17 +1,18 @@
+
 html {
-    font-size: 100%;
+    font-size:100%;
   }
-  
-  div {
+
+  div{
     font-size: 1rem;
-    width:400px;
-    height:300px;
-    margin:48rem 0rem 48rem 0rem;
-  }
-  .intro,.sidebar{
-    padding:32rem;32rem;32rem;32rem;
-  }
+    width:20rem;
+    height:25rem;
+    margin:4px 0 4px 0;
   
-  span{
-    border:2px solid black;
   }
+ .intro .sidebar{
+    padding:2rem 2rem 2rem 2rem;
+ }
+ span{
+    border:2px solid black;
+ }
